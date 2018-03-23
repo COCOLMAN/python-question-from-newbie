@@ -16,15 +16,9 @@
 ```
 
 
-2. packing될때 tuple, list?
+2. packing될때 왜 list?
 
 ```
-
->>> a = 1, 2
->>> a
-(1, 2)
->>> type(a)
-<class 'tuple'>
 >>> a, *b = 1, 2, 3, 4
 >>> a
 1
@@ -36,4 +30,5 @@
 ```
 
 
-3.
+3. List 단점이 무엇인가요
+
