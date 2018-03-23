@@ -32,3 +32,4 @@
 
 3. List 단점이 무엇인가요
 
+[링크](https://github.com/COCOLMAN/python-question-from-newbie/blob/master/ipython/list%2C%20dict%2C%20set%20%ED%83%90%EC%83%89%20%EC%8B%9C%EA%B0%84%20%EB%B9%84%EA%B5%90.ipynb)
